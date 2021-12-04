@@ -28,37 +28,37 @@
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/waterwhirl" target="_blank">
-          <img width="100px" src="https://avatars.githubusercontent.com/u/13819826?v=4">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/13819826?v=4">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/freirenaruto" target="_blank">
-          <img width="100px" src="https://avatars.githubusercontent.com/u/31389309?v=4">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/31389309?v=4">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/pferreirafabricio" target="_blank">
-          <img width="100px" src="https://avatars.githubusercontent.com/u/42717522?v=4">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/42717522?v=4">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/MantovaniGabriel" target="_blank">
-          <img width="100px" src="https://avatars.githubusercontent.com/u/83363226?v=4">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/83363226?v=4">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/JoaoFKraft" target="_blank">
-          <img width="100px" src="https://avatars.githubusercontent.com/u/84849252?v=4">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/84849252?v=4">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/Ganade" target="_blank">
-          <img width="100px" src="https://avatars.githubusercontent.com/u/85593405?v=4">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/85593405?v=4">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/LeoCorreia13" target="_blank">
-          <img width="100px" src="https://avatars.githubusercontent.com/u/91384304?v=4">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/91384304?v=4">
         </a>
       </td>
     </tr>
