@@ -32,7 +32,7 @@
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/freirenaruto" target="_blank">
+        <a href="https://github.com/JonatasFreireDev" target="_blank">
           <img width="80px" src="https://avatars.githubusercontent.com/u/31389309?v=4">
         </a>
       </td>
