@@ -27,6 +27,11 @@
   <tbody>
     <tr>
       <td align="center" valign="middle">
+        <a href="https://github.com/ALVenciguerra" target="_blank">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/105746411?v=4">
+        </a>
+      </td>
+      <td align="center" valign="middle">
         <a href="https://github.com/waterwhirl" target="_blank">
           <img width="80px" src="https://avatars.githubusercontent.com/u/13819826?v=4">
         </a>
