@@ -61,11 +61,6 @@
           <img width="80px" src="https://avatars.githubusercontent.com/u/85593405?v=4">
         </a>
       </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/LeoCorreia13" target="_blank">
-          <img width="80px" src="https://avatars.githubusercontent.com/u/91384304?v=4">
-        </a>
-      </td>
     </tr>
   </tbody>
 </table>
