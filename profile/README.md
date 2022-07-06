@@ -21,7 +21,7 @@
   <img src="https://github.com/coetus-jd/push-to-the-limit/blob/main/Docs/Logo.png" height="80px" /> 
 </a>
 &nbsp;&nbsp;&nbsp; 
-<a href="https://github.com/coetus-jd/death-start-raid">
+<a href="https://github.com/coetus-jd/death-star-raid">
   <img src="https://github.com/coetus-jd/death-star-raid/blob/main/assets/UX/TelaInicial/TelaInicial.png" height="150px" /><br>  
 </a>
 
