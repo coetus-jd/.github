@@ -22,7 +22,7 @@
 </a>
 &nbsp;&nbsp;&nbsp; 
 <a href="https://github.com/coetus-jd/death-start-raid">
-  <img src="https://github.com/coetus-jd/death-start-raid/blob/main/assets/UX/TelaInicial/TelaInicial.png" height="150px" /><br>  
+  <img src="https://github.com/coetus-jd/death-star-raid/blob/main/assets/UX/TelaInicial/TelaInicial.png" height="150px" /><br>  
 </a>
 
 ## Contributors
