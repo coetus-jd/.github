@@ -18,7 +18,11 @@
 </a>
 &nbsp;&nbsp;&nbsp; 
 <a align="center" href="https://github.com/coetus-jd/push-to-the-limit">
-  <img src="https://github.com/coetus-jd/push-to-the-limit/blob/main/Docs/Logo.png" height="80px" /><br>  
+  <img src="https://github.com/coetus-jd/push-to-the-limit/blob/main/Docs/Logo.png" height="80px" /> 
+</a>
+&nbsp;&nbsp;&nbsp; 
+<a href="https://github.com/coetus-jd/death-start-raid">
+  <img src="https://github.com/coetus-jd/death-start-raid/blob/main/assets/UX/TelaInicial/TelaInicial.png" height="150px" /><br>  
 </a>
 
 ## Contributors
