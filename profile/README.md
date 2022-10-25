@@ -3,7 +3,7 @@
 </h5>
 
 <h2 align="center">
-  🎮 A simple group of Digital Games students at FATEC Americana 🕹️
+  A simple group of Digital Games students at FATEC Americana 🕹️
 </h2>
 
 > Video games foster the mindset that allows creativity to grow.
@@ -11,7 +11,7 @@
 
 [1]: https://en.wikipedia.org/wiki/Nolan_Bushnell
 
-## Our Games
+## 🎮 Our Games
 
 <table>
   <tbody>
@@ -40,7 +40,7 @@
   </tbody>
 </table>
 
-## Contributors
+## 🤝🏻 Contributors
 
 <table>
   <tbody>
