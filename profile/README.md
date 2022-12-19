@@ -39,8 +39,8 @@
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/coetus-jd/console-game">
-          <img src="https://github.com/coetus-jd/console-game/blob/main/Arts/LogoMarcoPolo.png" width="150px" /><br>  
+        <a href="https://github.com/coetus-jd/marco-polo">
+          <img src="https://github.com/coetus-jd/marco-polo/blob/main/Arts/LogoMarcoPolo.png" width="150px" /><br>  
         </a>
       </td>
     </tr>
