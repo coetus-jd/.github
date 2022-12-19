@@ -3,7 +3,7 @@
 </h5>
 
 <h2 align="center">
-  A simple group of Digital Games students at FATEC Americana 🕹️
+  A humble group of Digital Games students at FATEC Americana 🕹️
 </h2>
 
 > Video games foster the mindset that allows creativity to grow.
