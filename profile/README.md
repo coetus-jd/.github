@@ -31,6 +31,8 @@
           <img src="https://github.com/coetus-jd/death-star-raid/blob/main/assets/UX/TelaInicial/TelaInicial.png" height="150px" /><br>  
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/coetus-jd/beehive-attack">
           <img src="https://github.com/coetus-jd/beehive-attack/blob/main/Docs/T%C3%ADtuloPixel.png" width="250px" /><br>  
