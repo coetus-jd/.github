@@ -3,10 +3,10 @@
 </h5>
 
 <h2 align="center">
-  A humble group of Digital Games students at FATEC Americana 🕹️
+  🕹️ A humble group of Digital Games students at FATEC Americana 
 </h2>
 
-> Video games foster the mindset that allows creativity to grow.
+> 💭 Video games foster the mindset that allows creativity to grow.
 > -- <cite>[Nolan Bushnell][1]</cite>
 
 [1]: https://en.wikipedia.org/wiki/Nolan_Bushnell
