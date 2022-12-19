@@ -36,6 +36,11 @@
           <img src="https://github.com/coetus-jd/beehive-attack/blob/main/Docs/T%C3%ADtuloPixel.png" width="250px" /><br>  
         </a>
       </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/coetus-jd/console-game">
+          <img src="https://github.com/coetus-jd/console-game/blob/main/Arts/LogoMarcoPolo.png" width="150px" /><br>  
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -78,6 +83,16 @@
       <td align="center" valign="middle">
         <a href="https://github.com/Ganade" target="_blank">
           <img width="80px" src="https://avatars.githubusercontent.com/u/85593405?v=4">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/j00ji" target="_blank">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/79171568?v=4">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/gustavoamioto" target="_blank">
+          <img width="80px" src="https://avatars.githubusercontent.com/u/95696389?v=4">
         </a>
       </td>
     </tr>
