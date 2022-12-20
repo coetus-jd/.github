@@ -40,7 +40,7 @@
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/coetus-jd/marco-polo">
-          <img src="https://github.com/coetus-jd/marco-polo/blob/main/Arts/LogoMarcoPolo.png" /><br>  
+          <img src="https://github.com/coetus-jd/marco-polo/blob/main/Arts/LogoFinal.png" height="150px" /><br>  
         </a>
       </td>
     </tr>
