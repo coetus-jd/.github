@@ -1,3 +1,9 @@
+> [!IMPORTANT]  
+> **pt-BR:** Felizmente ao final de 2022 a maioria dos integrantes desse excelente grupo acadêmico se formaram no curso superior de Jogos Digitais da FATEC Americana, por este motivo a organização e bem como seus respositórios foram arquivados e não serão mais mantidos de nenhuma forma. Porém, continuam open-source para ajudar quaisquer outros alunos ou entusiastas na área de desenvolvimento de jogos. O Coetus deseja a vocês excelentes estudos.
+>
+> **en-US:** Fortunately, by the end of 2022, most of the members of this excellent academic group had graduated from the Digital Games degree course at FATEC Americana. For this reason, the organization and its repositories were archived and will no longer be maintained in any way. However, they remain open-source to help any other students or enthusiasts in the area of ​​game development. Coetus wishes you excellent studies.
+
+
 <h5 align="center">
   <img src="https://github.com/coetus-jd/time-race/blob/main/Docs/Coetus.png" style="margin-right: 20px" width="250px" /><br>  
 </h5>
